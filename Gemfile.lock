@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.7.7)
+    ncurses-ruby (1.2.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  ncurses-ruby
